@@ -160,7 +160,7 @@ Built machine learning-powered risk scoring services using Python, Scikit-Learn,
 
 💼 LinkedIn: [www.linkedin.com/in/keerthana-boorgula](http://www.linkedin.com/in/keerthana-boorgula)
 
-🌐 GitHub: https://github.com/YOUR_USERNAME
+🌐 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/keerthanaboorgula3-tech)
 
 ---
 
