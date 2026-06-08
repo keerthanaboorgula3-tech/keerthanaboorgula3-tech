@@ -2,20 +2,20 @@
 
 ### Senior AI/ML Engineer | Generative AI | Machine Learning | Data Engineering | MLOps
 
-Senior AI/ML Engineer with 8+ years of experience building scalable machine learning platforms, data engineering solutions, and Generative AI applications across healthcare, financial services, and enterprise technology domains.
+Senior AI/ML Engineer with 8+ years of experience building machine learning platforms, data pipelines, and Generative AI solutions across network infrastructure, healthcare, and financial services.
 
-My career began in Python development, evolved into data engineering and machine learning, and over the last several years has focused on building production-grade Generative AI systems. I specialize in taking AI solutions from concept to production by combining software engineering best practices, scalable data platforms, cloud infrastructure, MLOps, and modern LLM technologies.
+My career started in Python development, evolved into data engineering and machine learning, and over the last several years has focused on building production-grade Generative AI systems. I specialize in taking AI solutions from concept to production by combining software engineering best practices, scalable data platforms, MLOps, cloud infrastructure, and modern LLM technologies.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Current Focus
 
-* Building Generative AI and LLM-powered applications
-* Designing RAG (Retrieval-Augmented Generation) pipelines
-* Developing Agentic AI workflows using LangChain and LangGraph
-* Fine-tuning and optimizing open-source LLMs
-* Deploying scalable AI systems on AWS and Azure
-* Building production-ready MLOps and monitoring frameworks
+* Generative AI and LLM-powered applications
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI workflows using LangChain and LangGraph
+* LLM fine-tuning and evaluation
+* MLOps and production AI systems
+* AWS and Azure cloud deployments
 
 ---
 
@@ -45,15 +45,16 @@ My career began in Python development, evolved into data engineering and machine
 
 * LangChain
 * LangGraph
+* LangSmith
 * OpenAI GPT-4
 * Anthropic Claude
 * Amazon Bedrock
 * Hugging Face
-* LLaMA
+* LLaMA 2
 * Mistral
+* LoRA / QLoRA
 * RAG Pipelines
 * Agentic AI
-* LoRA / QLoRA
 * FAISS
 * Pinecone
 * Prompt Engineering
@@ -66,9 +67,12 @@ My career began in Python development, evolved into data engineering and machine
 * XGBoost
 * LightGBM
 * Hugging Face Transformers
+* Sentence Transformers
 * MLflow
 * SHAP
-* Classification & Regression Models
+* Classification
+* Regression
+* Anomaly Detection
 
 ### Data Engineering
 
@@ -81,17 +85,23 @@ My career began in Python development, evolved into data engineering and machine
 * Azure Data Factory
 * Pandas
 * NumPy
+* PySpark
 
 ### Cloud & MLOps
 
-* AWS
-* Azure
+* AWS SageMaker
+* AWS EKS
+* AWS Lambda
+* AWS S3
+* AWS Redshift
+* Azure ML
+* Azure AKS
 * Docker
 * Kubernetes
 * Terraform
-* MLflow
 * GitHub Actions
 * Jenkins
+* MLflow
 * Prometheus
 * Grafana
 * CI/CD
@@ -104,7 +114,7 @@ My career began in Python development, evolved into data engineering and machine
 * DynamoDB
 * Snowflake
 * SQL Server
-* Redshift
+* Elasticsearch
 
 ### APIs & Deployment
 
@@ -119,19 +129,19 @@ My career began in Python development, evolved into data engineering and machine
 
 ### 🔹 Network Operations RAG Agent
 
-Built an enterprise RAG-powered natural language interface for querying and troubleshooting complex network environments using LLMs, vector databases, and agentic workflows.
+Built a RAG-powered natural language interface for querying and troubleshooting complex network environments using OpenAI GPT models, FAISS, Pinecone, and LangGraph-based agent workflows.
 
-### 🔹 Clinical NLP & Risk Prediction Platform
+### 🔹 Healthcare NLP & Risk Prediction Platform
 
-Developed NLP pipelines and machine learning models for healthcare analytics, patient risk prediction, and clinical text processing.
+Developed NLP pipelines and patient risk prediction models using Hugging Face Transformers, XGBoost, LightGBM, Azure ML, and centralized feature engineering workflows.
 
 ### 🔹 Real-Time Fraud Detection Pipeline
 
-Designed scalable streaming data pipelines using Kafka, Spark, and Databricks for fraud detection and real-time transaction monitoring.
+Designed scalable streaming data pipelines using Kafka, Spark Structured Streaming, Databricks, Delta Lake, and Airflow for real-time fraud detection and monitoring.
 
 ### 🔹 Financial Risk Scoring API
 
-Built machine learning-powered risk scoring services with REST APIs, model monitoring, and cloud deployment capabilities.
+Built machine learning-powered risk scoring services using Python, Scikit-Learn, Flask APIs, Redis caching, and production deployment best practices.
 
 ---
 
