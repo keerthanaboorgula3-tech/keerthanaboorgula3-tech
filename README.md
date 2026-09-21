@@ -26,12 +26,12 @@ More projects will appear here as their code is published.
 
 ## Tech I use
 
-**Languages:** Python, SQL, PySpark, Bash
-**AI and LLMs:** LangChain, LangGraph, RAG, embeddings, reranking, prompt engineering, LLM evaluation
-**Machine learning:** PyTorch, Scikit-learn, XGBoost, Hugging Face Transformers, SHAP
-**Search and data:** OpenSearch, FAISS, Spark, Kafka, Airflow, Databricks
-**Deployment:** FastAPI, Flask, Docker, Kubernetes, MLflow, Prometheus, Grafana
-**Cloud:** AWS, Azure
+- **Languages:** Python, SQL, PySpark, Bash
+- **AI and LLMs:** LangChain, LangGraph, RAG, embeddings, reranking, prompt engineering, LLM evaluation
+- **Machine learning:** PyTorch, Scikit-learn, XGBoost, Hugging Face Transformers, SHAP
+- **Search and data:** OpenSearch, FAISS, Spark, Kafka, Airflow, Databricks
+- **Deployment:** FastAPI, Flask, Docker, Kubernetes, MLflow, Prometheus, Grafana
+- **Cloud:** AWS, Azure
 
 ## Certifications
 
