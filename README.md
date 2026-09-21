@@ -1,167 +1,46 @@
-# Hi, I'm Keerthana Boorgula 👋
+# Keerthana Boorgula
 
-### Senior AI/ML Engineer | Generative AI | Machine Learning | Data Engineering | MLOps
+**Senior Data Scientist | Machine Learning and Generative AI**
 
-Senior AI/ML Engineer with 8+ years of experience building machine learning platforms, data pipelines, and Generative AI solutions across network infrastructure, healthcare, and financial services.
+I have spent more than nine years putting machine learning into production in commercial real estate, healthcare, digital marketing and financial services. Today I build retrieval and agent systems that read documents such as leases and property reports, so business teams can find and check what they need faster.
 
-My career started in Python development, evolved into data engineering and machine learning, and over the last several years has focused on building production-grade Generative AI systems. I specialize in taking AI solutions from concept to production by combining software engineering best practices, scalable data platforms, MLOps, cloud infrastructure, and modern LLM technologies.
+Most of my work over the past nine years lives in private employer repositories. This account is where I publish public projects.
 
----
+[LinkedIn](https://www.linkedin.com/in/keerthana-boorgula/)
 
-## 🚀 Current Focus
+## What I work on
 
-* Generative AI and LLM-powered applications
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI workflows using LangChain and LangGraph
-* LLM fine-tuning and evaluation
-* MLOps and production AI systems
-* AWS and Azure cloud deployments
+- Retrieval-augmented generation (RAG) and semantic search over large document collections
+- Multi-step agent workflows with LangChain and LangGraph
+- Evaluating LLM output for grounding and hallucination
+- Production ML: APIs, Docker and Kubernetes, monitoring and drift detection
+- Data pipelines on AWS, Azure and Databricks
 
----
+## Projects
 
-## 💡 Areas of Interest
+| Project | What it is |
+| --- | --- |
+| [network-rag-agent](https://github.com/keerthanaboorgula3-tech/network-rag-agent) | Ask plain-English questions about network configs and runbooks and get the most relevant passages with sources. Built with FastAPI, FAISS and LangChain, with tests. Uses synthetic sample data. |
 
-* Generative AI
-* Large Language Models (LLMs)
-* Agentic AI Systems
-* Retrieval-Augmented Generation (RAG)
-* Machine Learning Engineering
-* Data Engineering
-* MLOps
-* Cloud-Native AI Platforms
+More projects will appear here as their code is published.
 
----
+## Tech I use
 
-## 🛠️ Tech Stack
+**Languages:** Python, SQL, PySpark, Bash
+**AI and LLMs:** LangChain, LangGraph, RAG, embeddings, reranking, prompt engineering, LLM evaluation
+**Machine learning:** PyTorch, Scikit-learn, XGBoost, Hugging Face Transformers, SHAP
+**Search and data:** OpenSearch, FAISS, Spark, Kafka, Airflow, Databricks
+**Deployment:** FastAPI, Flask, Docker, Kubernetes, MLflow, Prometheus, Grafana
+**Cloud:** AWS, Azure
 
-### Programming Languages
+## Certifications
 
-* Python
-* SQL
-* PySpark
-* Shell Scripting
+- AWS Certified Machine Learning – Specialty
+- Databricks Certified Data Scientist
+- Databricks GenAI Fundamentals
+- NVIDIA DLI: LLM Applications
+- LangChain for LLM Development
 
-### Generative AI & LLMs
+## Contact
 
-* LangChain
-* LangGraph
-* LangSmith
-* OpenAI GPT-4
-* Anthropic Claude
-* Amazon Bedrock
-* Hugging Face
-* LLaMA 2
-* Mistral
-* LoRA / QLoRA
-* RAG Pipelines
-* Agentic AI
-* FAISS
-* Pinecone
-* Prompt Engineering
-
-### Machine Learning
-
-* PyTorch
-* TensorFlow
-* Scikit-Learn
-* XGBoost
-* LightGBM
-* Hugging Face Transformers
-* Sentence Transformers
-* MLflow
-* SHAP
-* Classification
-* Regression
-* Anomaly Detection
-
-### Data Engineering
-
-* Apache Kafka
-* Apache Spark
-* Databricks
-* Delta Lake
-* Apache Airflow
-* AWS Glue
-* Azure Data Factory
-* Pandas
-* NumPy
-* PySpark
-
-### Cloud & MLOps
-
-* AWS SageMaker
-* AWS EKS
-* AWS Lambda
-* AWS S3
-* AWS Redshift
-* Azure ML
-* Azure AKS
-* Docker
-* Kubernetes
-* Terraform
-* GitHub Actions
-* Jenkins
-* MLflow
-* Prometheus
-* Grafana
-* CI/CD
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* DynamoDB
-* Snowflake
-* SQL Server
-* Elasticsearch
-
-### APIs & Deployment
-
-* FastAPI
-* Flask
-* REST APIs
-* Streamlit
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Network Operations RAG Agent
-
-Built a RAG-powered natural language interface for querying and troubleshooting complex network environments using OpenAI GPT models, FAISS, Pinecone, and LangGraph-based agent workflows.
-
-### 🔹 Healthcare NLP & Risk Prediction Platform
-
-Developed NLP pipelines and patient risk prediction models using Hugging Face Transformers, XGBoost, LightGBM, Azure ML, and centralized feature engineering workflows.
-
-### 🔹 Real-Time Fraud Detection Pipeline
-
-Designed scalable streaming data pipelines using Kafka, Spark Structured Streaming, Databricks, Delta Lake, and Airflow for real-time fraud detection and monitoring.
-
-### 🔹 Financial Risk Scoring API
-
-Built machine learning-powered risk scoring services using Python, Scikit-Learn, Flask APIs, Redis caching, and production deployment best practices.
-
----
-
-## 🏆 Certifications
-
-* AWS Certified Machine Learning – Specialty
-* AWS Certified Solutions Architect – Associate
-* Microsoft Certified: Azure AI Engineer Associate
-* Databricks Generative AI Fundamentals
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: [keerthanaboorgula97@gmail.com](mailto:keerthanaboorgula97@gmail.com)
-
-💼 LinkedIn: [www.linkedin.com/in/keerthana-boorgula](http://www.linkedin.com/in/keerthana-boorgula)
-
-🌐 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/keerthanaboorgula3-tech)
-
----
-
-⭐ Building production-ready AI systems that solve complex business problems and deliver measurable outcomes.
+Email: [boorgulakeerthana15@gmail.com](mailto:boorgulakeerthana15@gmail.com)
