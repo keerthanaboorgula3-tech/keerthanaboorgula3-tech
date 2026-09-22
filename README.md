@@ -6,7 +6,7 @@ I have spent more than nine years putting machine learning into production in co
 
 Most of my work over the past nine years lives in private employer repositories. This account is where I publish public projects.
 
-[LinkedIn](https://www.linkedin.com/in/keerthana-boorgula/)
+[Portfolio](https://keerthanaboorgula3-tech.github.io) · [LinkedIn](https://www.linkedin.com/in/keerthana-boorgula/)
 
 ## What I work on
 
